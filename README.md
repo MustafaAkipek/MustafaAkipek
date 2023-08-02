@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer engineer who loves to solve problems and learn new algorithms. I regularly practice on Hackerrank and Leetcode, and I am currently working on Go(lang) programming language. This is my GitHub profile where I share my projects and code.
+I am a computer engineer who loves to solve problems and learn new algorithms. I regularly practice on Hackerrank and Leetcode. This is my GitHub profile where I share my projects and code.
 
 
 # 💻 Tech Stack:
